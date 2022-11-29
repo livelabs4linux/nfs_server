@@ -16,4 +16,4 @@ galaxy_info:
   galaxy_tags:
     - nfs
 dependencies:
-  - livelabs4linux.conf_base
+  - conf_base
